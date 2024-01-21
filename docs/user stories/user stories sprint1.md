@@ -1,0 +1,9 @@
+# List of user stories
+
+| Team member's name | User story |
+|-----------------------------------|------------|
+| Emmanuel Otobo ([eotobo](https://github.com/emmytobs)) | As a member of an engineering team, Alice wants to be able to create performance reviews of her colleagues, and have the option of posting the reviews anonymously.|
+| Aaron Graab | Potash is an 18-year-old ambitious employee at his grandfather’s sprinkler installation company. He is always eager to finish a project ahead of schedule and prove his skills to his grandpa in hopes of becoming a major stakeholder in the company. When his grandfather’s company gets a posted review on the website, Potash hopes people can eventually add photos so they can advertise the cleanliness of his pipelaying skills. Furthermore, to amplify his performance abilities, he hopes that other users would be able to like posted review photos so his company can gain notoriety. |
+| Faraz Abdollahihaghi | Given the increasing volume of reviews, Mike, a tech-savvy restaurant owner, hopes for a feature that lets him organize and categorize reviews for easier navigation. Furthermore, Mike believes an auto-tagging feature that highlights common themes or keywords would greatly enhance the user experience and help businesses identify areas of improvement faster. |
+| Anika Farhad |Carla is a ciber security conultant who prioritizes privacy and wants the ability to log out of the website when she wants using a logout button. She also wants an additional feature which will automatically log her out after a certain time. |
+| Irfanul Haque | Meet Alan, an avid reader exploring a book review website. She loves the ease of rating books with a simple 5-star system. And, with the bookmarking feature, she effortlessly saves books for later. These user-friendly features have made her a devoted member of the community.

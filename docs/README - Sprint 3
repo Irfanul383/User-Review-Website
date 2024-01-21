@@ -1,0 +1,199 @@
+## Project Sprint 3 Evaluation
+
+//Please notice a copy of the rubric below with tasks separated into their respective sections.
+//Under each task are our teams comments/ explanation relating to the marking of the task in addition to providing the documentation locations.
+
+## Individual Assignment
+
+## Effort and Participation
+A minimum of one interface design and two coding tasks were assigned / 40 lines of code
+-
+
+Task assignments are clear from team minutes
+-
+
+Tasks are assigned in cards on kanban board
+-
+
+Participation in code review presentations to team ensure team understands interface and code and receive feedback
+-
+
+Issues and difficulties completing tasks are reported through team meetings and kanban
+-
+
+Code production and time spent shows a serious effort undertaken
+-
+
+Participation as SCRUM master and note-taker
+-
+
+
+## Process
+Kanban board used to track progress
+-
+
+Regular reports of task progress appear throughout the sprint
+-
+
+Code reviews of your submissions by team members is meaningful and leads to new backlog items where appropriate
+-
+
+Performance review conducted by team and student response where needed.
+-
+
+Submission must be made as a branch/pull request using team approved methodology.
+-
+
+You must meet the team imposed sprint pull-request deadline.
+-
+
+
+## Product
+Repository team README file includes where to find your design components and code, how to run your unit tests, and how to exercise your code within the current main/master branch project codebase.
+-
+
+Other documentation you want the marker to consider for individual assessment must be indicated in the project README file
+-
+
+Team architecture design document indicates how your interface design and code fits into the overall project components.
+-
+
+Architectural details of your component interface are detailed in UML and described in architecture document.
+-
+
+Unit tests are correct and working (not necessarily passing) for public interface methods/services of your design components and coding tasks, sufficient to test a correct mode and incorrect mode for different method invocations.
+-
+
+Docstrings are complete and appropriate for all modules and public interface elements of your design components and coding tasks
+-
+
+Stub implementations were/are completed where needed to support prototyping of your public interface methods.
+-
+
+Status of tasks at end of sprint is clearly documented
+-
+
+Code component shows consideration of SOLID, de-coupling, common patterns (Adapter) and other code style and standards applied as appropriate.
+-
+
+Task completion with finished working code and attributions table
+-
+
+
+## Team submission
+Team submission evaluation will be based on the following:
+The README file in your repo will be read by the marker to run the program, unit tests, and find out what other documentation the evaluator should read. It is your responsibility to tell the marker how to find the evaluation components, it is not the marker’s responsibility to hunt through the documents and code to find those items.
+-
+
+The content of the Kanban Board, issue tracker, and repo will be reviewed
+-
+
+Other documents should be put in a documents folder in your repo and indicated in README file, if they should be read for marking assessment
+-
+
+If you are using other github tools that need to be reviewed (e.g. discussion or wiki tools) make sure this is made clear to the evaluator in the repo README file.
+-
+
+
+## Evaluation components will include:
+Properly minuted SCRUM meetings and decisions agenda coverage for each meeting
+-
+
+Includes progress on agenda items suggested by prof on class diary/webpage
+-
+
+Decisions documented properly and reflected in the Kanban Board/issue tracker
+-
+
+Changes to architecture and low level designs (interfaces) discussed, determined, and documented. Architecture document in docs folder
+-
+
+SCRUM master and notetaker roles shared among team
+-
+
+Minutes committed and pushed regularly, so team members can access.
+-
+
+Features broken into tasks.
+-
+
+Design interface/services and Coding tasks assigned to individual team members. Tasks on KanBan board.
+-
+
+Maintenance of the Kanban Board on your team github page and the issue tracker in your project repository
+-
+
+Kanban board must be set up early in the first cycle.
+-
+
+Establish labels, color coding, and categories for the Kanban board cards and issues.
+-
+
+Create cards for backlog features, required functionality for sprint 1, and assigned tasks.
+-
+
+
+## Progress of tasks noted on board
+New tasks and issues arising in meetings, reviews and otherwise are noted on kanban board
+-
+
+Performance reviews (how did the team members perform) conducted and documented
+-
+
+Each team member assessed, each team member participates.
+-
+
+Serious performance reviews including problems/personality clashes and possible solutions. A trivial review indicating everyone did fine will be assumed to be pro-forma and will be given no credibility.
+-
+
+Problems with the team progress, dynamics and process must be identified and documented, and tracked with possible responses and progress on those items becoming kanban/agenda items.
+-
+
+
+## Code reviews conducted and documented
+Code should be regularly presented and discussed at SCRUM meetings, not just at end of cycle.
+-
+
+Code contributions are presented to entire team.
+-
+
+Code reviews are thorough, covering style issues (SOLID, de-coupling) as well as correctness.
+-
+
+All code should be reviewed before pull request is merged.
+-
+
+Pull request deadlines established and enforced.
+-
+
+
+## Component Architecture Document
+Details of components and interfaces in document
+-
+
+Use of diagramming and prose to concisely offer complete details
+-
+
+Consistent with modules, interfaces, docstring and unit tests
+
+
+## Process Model Analysis Document
+Elements of process identified and explained. Distinction made between process and process model.
+-
+
+Changes in process since beginning of project are discussed.
+-
+
+Ideas for improving process in future and what will team do about it.
+-
+
+
+## Microservices Alternative Architecture Document
+Possible microservices identified and included in architecture
+-
+
+Comparison to existing/component based architecture
+-
+
+Discussion of impact on team software process
+-

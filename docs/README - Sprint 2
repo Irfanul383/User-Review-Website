@@ -1,0 +1,194 @@
+We decided for this read me file to instead copy the rubric and under each assigned allocation of marks discuss where you can find those specific needed files in addition to any further comments we need to make on the topic.
+
+
+## INDIVIDUAL ASSIGNMENT
+
+## Effort and Participation (28%)
+2 points Task assignments are clear from team minutes:
+- In our Docs folder in the MeetingNotes.md file, each meeting has a Meeting Notes section which specifically outlines assigned tasks to each group member which gets completed for our next meeting.
+
+3 points Tasks are assigned in cards on kanban board:
+- During our meetings, if an issue would be brought up, we would make note of it in our meeting notes and then create a KanBan board issue with the proper labels.
+
+5 points Participation in code review presentations to team ensure team understands interface and code and receive feedback:
+- In each meeting we would assign tasks to everyone (as seen in our meeting notes).
+- We would then work on these tasks before our next scheduled meeting time and submit PRs.
+- These PRs would be discussed/ commented, modified, and approved during the next meeting time.
+- This can be seen in our Docs folder in the MeetingNotes.md file under the section Pull Request Performance Reviews (which I now see as a misleading title in our notes and will later be changed to exclude the word Performance).
+- Each group member contributed to comments and approving the PR during the meetings.
+
+5 points Issues and difficulties completing tasks are reported through team meetings and kanban:
+- In our Docs folder in the MeetingNotes.md file, under the Meeting Notes section we discuss the completion of tasks and what our next goals are if someone did not successfully complete their assigned task.
+
+10 points Code production and time spent shows a serious effort undertaken:
+- Each group member contributed to their own 40+ lines of code as can be seen with the various PRs during this Sprint in addition to each group member's branch updates.
+
+3 points Participation as SCRUM master and note-taker:
+- In our Docs folder in the MeetingNotes.md file each person rotated between being the SCRUM master and the note taker.
+- The meeting notes were all taken on Aaron's macbook book by each group member and then pushed from his branch.
+
+## Process (25%)
+5 points Kanban board used to track progress:
+- KanBan board can be found in our Projects tab in our GitHub Repo.
+- All of our KanBan tasks are assigned to specific group members in addition to being tagged based on their designated labels.
+
+5 points Regular reports of task progress appear throughout the sprint:
+- As seen in our Meeting Notes, each time an issue was brought up during the Sprint, we would add it to the KanBan board to track it.
+
+5 points Code reviews of your submissions by team members is meaningful and leads to new backlog items where appropriate:
+- As seen in our Meeting Notes, PRs were discussed at each meeting.
+- Discussion about the code, comments, modifications, and approval of the PRs were made by each group member.
+- These discussions would lead to other issues not yet seen, which would lead to new KanBan board issues/ backlog features being created (as seen in our meeting notes).
+
+5 points Performance review conducted by team and student response where needed:
+- Each group member wrote their own performance reviews on the other group members.
+- This can be found in our Docs folder > Performance Reviews folder > Sprint 2 folder.
+
+5 points Submission must be made as a branch/pull request using team approved methodology:
+- As mentioned before, our group decided to assigned each team member a specific task which will be due by our next meeting.
+- PR would be created between meetings.
+- Our group would discuss, comment, modify, and approve all PRs at the set meeting date.
+
+## Product (47%)
+2 points Repository team README file includes where to find your design components and code, how to run your unit tests, and how to exercise your code within the current main/master branch project codebase:
+Other documentation you want the marker to consider for individual assessment must be indicated in the project README file
+- Yep! This file right here! Have you enjoyed reading all of our hard work?
+- 1/4 database unit test can be found in Database folder > dbuser.py > class DBUser
+- 2/4 database unit test can be found in Database folder > dbtopic.py > class DBTopic
+- 3/4 database unit test can be found in Database folder > dbtopic_questions.py > class DBReview
+- 4/4 database unit test can be found in Database folder > dbtopicreview.py > class DBReview
+- Our routers unit test can be found in Tests folder > routes_unit_test.py
+
+8 points Team architecture design document indicates how your interface design and code fits into the overall project components:
+Architectural details of your component interface are detailed in UML and described in architecture document:
+- In Docs folder > component_architecture folder > teamD-component architecture.svg
+
+10 points Unit tests are correct and working (not necessarily passing) for public interface methods/services of your design components and coding tasks, sufficient to test a correct mode and incorrect mode for different method invocations:
+- We have all of our unit tests present for the function calls. Are they successfull... hopefully.
+- 1/4 database unit test can be found in Database folder > dbuser.py > class DBUser
+- 2/4 database unit test can be found in Database folder > dbtopic.py > class DBTopic
+- 3/4 database unit test can be found in Database folder > dbtopic_questions.py > class DBReview
+- 4/4 database unit test can be found in Database folder > dbtopicreview.py > class DBReview
+- Our routers unit test can be found in Tests folder > routes_unit_test.py
+
+10 points Docstrings are complete and appropriate for all modules and public interface elements of your design components and coding tasks:
+- All of our submitted code have Docstrings to illustrate what/ how a section of code performs.
+
+2 points Stub implementations were/are completed where needed to support prototyping of your public interface methods:
+- Unused methods do contain a pass line of code to which later implementation of that specific code will be written and reviewed.
+
+5 points Status of tasks at end of sprint is clearly documented:
+- As referenced in our meeting notes and our KanBan board, status of each Sprint 2 task was documented and if not completed, referenced that we will be adding it to our Sprint 3 agenda.
+
+5 points Code component shows consideration of SOLID, de-coupling, common patterns (Adapter) and other code style and standards applied as appropriate:
+- Each group member's code goes in their represented developer section.
+- We each import other group member's code at the beginning of our .py files for better de-coupling.
+
+5 points Task completion with finished working code and attributions table:
+- As discussed in our Meeting Notes and through the issue tracker on the KanBan board, when a task is completed it is moved to the "Done" column in addition to discussing next steps in our Meeting Notes.
+
+
+## TEAM SUBMISSION
+
+## Properly minuted SCRUM meetings and decisions (30%)
+5 points agenda coverage for each meeting:
+- In our Docs folder in the MeetingNotes.md file, each meeting had a "Pre-Meeting Questions/ Goals" section.
+- These would include goals, questions, and discussions we seek to complete/ figure out during the meeting.
+- This formatting allowed the team to stay on track and make needed decisions to move on.
+
+5 points includes progress on agenda items suggested by prof on class diary/webpage:
+- In our Docs folder in the MeetingNotes.md file, each meeting had a "Professor Recommendations" section.
+- This is where we would take Dr. Brown's recommendations on what needed to be worked on during this meeting.
+- As our team was going at our own pace, many of these recommended agenda items would be answered in later meetings.
+
+5 points decisions documented properly and reflected in the Kanban Board/issue tracker:
+- In our Docs folder in the MeetingNotes.md file, each meeting would handle specific topics of discussion.
+- Throughout these discussions, as labelled in our Meeting Notes section of our MeetingNotes.md file, we would make specific decisions which would then be translated to our KanBan board (again seen in the Meeting Notes).
+
+5 points changes to architecture and low level designs (interfaces) discussed, determined, and documented. Architecture document in docs folder:
+- In our Docs folder in the MeetingNotes.md file, if any architecture or low level designs were discussed, it would be reflected in the Meeting Notes.
+
+4 points SCRUM master and notetaker roles shared among team:
+- In our Docs folder in the MeetingNotes.md file each person rotated between being the SCRUM master and the note taker.
+- The meeting notes were all taken on Aaron's macbook book by each group member and then pushed from his branch.
+
+3 points Minutes committed and pushed regularly, so team members can access:
+- As can be seen in our GitHub commit log, meeting notes were pushed to the repo within a day after each meeting.
+
+3 points Features broken into tasks. Design interface/services and Coding tasks assigned to individual team members. Tasks on KanBan board:
+- As seen in October 24th's meeting notes, we took each feature we were attempting to implement and divided them into tasks.
+- These tasks were then added to our KanBan board as issues with labels.
+
+## Maintenance of the Kanban Board on your team github page and the issue tracker in your project repository (10%)
+1 points Establish labels, color coding, and categories for the Kanban board cards and issues:
+- KanBan board can be found in our Projects tab in our GitHub Repo. Please ensure View 2 is selected to see our columns in additions to the label's field is selected to see our labels.
+- Each task was designated as an issue with specific labels and colour codes.
+- Each issue was assigned to someone specific.
+- Labels include: Bug, Product Backlog, sprint backlog, code, database, documentation, duplicate, enhancement, help wanted, interface, invalid, logic, question, restructure, routing, session management, want to fix.
+
+3 points Create cards for backlog features, required functionality for sprint 1, and assigned tasks:
+- Again, everything in our KanBan board was created as an issue (as per Dr. Browns clarifications in class) so we may label everything properly.
+- We have a specific column outlining our backlog feature in addition to a specific label.
+- We have labels relating to Sprint 1 and Sprint 2.
+- We labelled tasks that needed to be complete as Sprint 2.
+- Issues that we werent able to resolve this Sprint we will be finishing in Sprint 3.
+
+3 points Progress of tasks noted on board:
+- Our KanBan board has a series of different columns including a In Progress column and a Done column.
+- Tasks/ Issues on our KanBan board move from left to right as they get completed.
+- Progress of tasks are also followed in our meeting notes.
+
+3 points New tasks and issues arising in meetings, reviews and otherwise are noted on kanban board:
+- As reference in our Meeting Notes document (examples include Meeting Notes from Nov 9, Nov 7, Nov 6, Oct 30, etc) each time we came across a new issue, we added it to our KanBan board.
+
+## Performance reviews (how did the team members perform) conducted and documented (10%)
+2 points Each team member assessed, each team member participates:
+- Performance reviews for each team member can be found in the Docs folder > performance review > performance reviews sprint2
+
+4 points Serious performance reviews including problems/personality clashes and possible solutions. A trivial review indicating everyone did fine will be assumed to be pro-forma and will be given no credibility:
+- Performance reviews for each team member can be found in the Docs folder > performance review > performance reviews sprint2
+
+4 points Problems with the team progress, dynamics and process must be identified and documented, and tracked with possible responses and progress on those items becoming kanban/agenda items:
+- Performance reviews for each team member can be found in the Docs folder > performance review > performance reviews sprint2.
+- Group members task completion process was documented in our Meeting Notes.
+
+## Code reviews conducted and documented. (20 %)
+3 points Code contributions are presented to entire team:
+- During each meeting (as seen in our Meeting Notes), we all sat down together and went through everyone's submitted PRs to fully understand, discuss, comment, modify, and approve the code.
+- This ensured that every team member understands what code is being added to the project.
+
+10 points Code reviews are thorough, covering style issues (SOLID, de-coupling) as well as correctness:
+- Code reviews can be seen directly on GitHub under each PR group members commented on the PR.
+- Code reviews were also completed through our Meeting Notes during each meeting as seen in the Meeting Notes document under the section of "Pull Request Performance Reviews"
+
+5 points All code should be reviewed before pull request is merged:
+- As previously stated, everyone was together to review each PR that was made.
+- We all discussed, commented, modified, and approved each PR together.
+- We took turns approving the PRs as we all went through them together at our meeting (as seen in our Meeting Notes).
+
+2 points Pull request deadlines established and enforced:
+- During our meetings, we would assign tasks to each group member.
+- Each group member would have until the next meeting to complete their task and submit a PR (unless otherwise approved over discord).
+- At the next meeting, everyone would sit down together to discuss the PRs from everyone who submitted one.
+- It was otherwise documented in our meeting notes if someone was not able to complete their tasks for the meeting in addition to giving a description as to why.
+- That uncompleted task would either be removed or re-evalutated to be delegated to another team member/ allow the original team member to continue.
+
+## Component Architecture Document (15 %)
+5 points Details of components and interfaces in document:
+- In Docs folder > component_architecture folder > teamD-component architecture.svg
+
+5 points Use of diagramming and prose to concisely offer complete details:
+- In Docs folder > component_architecture folder > teamD-component architecture.svg
+
+5 points Consistent with modules, interfaces, docstring and unit tests:
+- In Docs folder > component_architecture folder > teamD-component architecture.svg
+
+## Process Model Analysis Document (15 %)
+5 points Elements of process identified and explained. Distinction made between process and process model:
+- In Docs folder > Process_model_analysis.md file
+
+5 points Changes in process since beginning of project are discussed:
+- In Docs folder > Process_model_analysis.md file
+
+5 points Ideas for improving process in future and what will team do about it:
+- In Docs folder > Process_model_analysis.md file

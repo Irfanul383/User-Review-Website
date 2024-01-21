@@ -1,0 +1,62 @@
+## Part 0 - Who did what:
+Developer 1 is Aaron: Implemented server_app folder with app.py file inside.
+This file runs the server and has the different routes outlined with their error logic.
+
+Developer 2 is Faraz: Implemented app_logic folder three files inside.
+These file calls different functions to run the behind the scene app logic for different sections of the website, including methods for logging in, registration and logging out.
+
+Developer 3 is Emmanuel: Implemented database folder with three files inside.
+This file initializes the database and is the main logic behind any database functions.
+
+Developer 4 is Irfanul: Implemented interfaces folder with three tpl files inside.
+These files are the specific HTML templates for building the interface the user sees on the website.
+
+Developer 5 is Anika: Implemented session_management folder with two files inside.
+These files specifically handle session management for the website. 
+For example, checking if the user has already logged in or that when they log out our database tracks that they in fact did log out.
+
+## Part 1 - How our meetings were structured:
+Our group decided to meet during lecture times and extend our meetings (if needed) to a booked library room after class. During our meetings, we would follow these specific guidelines: 
+-	Elect note taker and SCRUM master, which rotated to everyone in our group.
+-	Discuss PR from last meeting while doing code reviews and performance reviews.
+-	Discuss pre-meeting questions and goals.
+-	Work on code together and project documentation together.
+-	Discuss next meeting task assignments.
+-	Book next meeting time.
+-	Book library room for the next meeting.
+
+## Part 2 - How meeting notes were taken and transferred over from Word:
+!PLEASE read our meeting notes as the raw file. 
+The formatting on the Mark Down file doesn't allow us to properly go to the next line, so it isn't formatted properly and titles are on previous lines.
+The MeetingNotes.md file template and formatting originally provided on GitHub was frustrating to use.
+Our group decided to take our meeting notes in a Word document instead where a rough template would be pushed after every meeting to GitHub to prove we have been taking notes throughout the sprint.
+The fully formatted notes of all our meetings were pushed to GitHub October 19th, 2023.
+
+## Part 3 - How Code Reviews and Performance Reviews were structured:
+At each meeting, everyone was delegated a specific task to be completed for the next meeting. 
+After meetings, team members would work on their assigned tasks individually and submit pull requests before the next meeting.
+At the following meeting, everyone was tasked with updating everyone else on their progress and if they were successful or not at completing their assigned task.
+We, as a team, went through everyone’s pull request together up on a large display TV and discuss them together as a team.
+It is there we did our code and performance reviews, as reflected in our meeting notes. We would ensure everyone understood everyone’s pull request and code and make any needed comments or corrections directly to the code, again reflected in our meeting notes.
+Once we were all satisfied with the pull request, one of us would approve the request and merge the code with our master branch. Each group member also completed their own performance reviews of everyone on the team as separate md files.
+These individual performance reviews can be found in our Performance Review folder in our docs folder on GitHub.
+
+## Part 4 - How GitHub KanBan was implemented from Trello:
+At the beginning of this sprint, our team decided to track tasks using a website application called Trello.
+Trello is where we would list all the tasks that needed to be completed in addition to who is assigned to that specific task.
+Furthermore, we tracked backlog features we want to include in our project at future dates in addition to any issues we ran into.
+An issue could then be further dissected into multiple tasks down the road if needed.
+When the rubric was released, and after discussions with Dr. Brown, we realized that it would be more favourable to the markers if we had our task manager directly through GitHub’s KanBan application instead of a separate application that needed a login such as Trello.
+Due to this realization, we decided to completely transfer all our tasks to KanBan on October 17th, 2023.
+
+## Part 5 - How file structure was restructured:
+Upon initializing this sprint, we originally didn’t structure our file organization based on the five types of developer flowchart provided.
+We took it upon ourselves to organize our files based on the database, models, repos, and routers, which merged many different developer’s code into multiple files.
+As this made sense for us at the time, we quickly realized when the rubric came out that this file organization structure would be confusing to mark and would limit us down the road for future sprints when working on backlog ideas.
+For this reason, our group decided to completely rehaul our file structure and reorganize/ separate all of our files to repush to GitHub on October 19th, 2023 (as reflected in our meeting notes October 17th and onwards).
+
+## Part 6 - User Stories:
+User stories from each group member can be found in the folder 'user stories' and then 'user stories sprint 1' located in the 'docs' folder.
+
+## Part 7 - Unit Tests:
+We put our unit tests in the /tests subfolder. As of the current sprint cycle, we have written tests for the "app logic" part of the project and are still figuring out how to test other parts.

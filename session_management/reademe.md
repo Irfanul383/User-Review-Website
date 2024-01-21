@@ -1,0 +1,1 @@
+This folder contains all the files that handle session manangement. These files are used by dev 2 to handle app logic.
